@@ -1,0 +1,12 @@
+{
+  "name": "refresh-site-arzt",
+  "version": "1.0.0",
+  "private": true,
+  "description": "German medical practice website template",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
